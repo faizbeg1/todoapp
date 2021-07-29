@@ -1,0 +1,84 @@
+body{
+    background-color: greenyellow;
+    align-items: center;
+    text-align: center;
+    border:beige;
+    box-sizing: 10px;
+}
+input{
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+}
+.paraStyle{
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+}
+
+
+
+
+
+
+.item{
+    border: blueviolet;
+    box-sizing: border-box;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.completed{
+    text-decoration:line-through;
+    text-transform: capitalize;
+    
+}
+.main-box{
+    background-color: cornsilk;
+    border: darkblue;
+    margin-top: 40px;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    float: initial;
+
+
+
+}
+.butt1style{
+    font-size: 10px;
+    color: lightblue;
+    background-color: honeydew;
+    float: left;
+    margin-left: 10px;
+    text-decoration: maroon;
+    cursor: pointer;
+    margin-top: -22px;
+    margin-right: 50px;
+    padding: 4px;
+    margin-bottom: 5px;
+
+}
+.butt2style{
+    font-size: 10px;
+    color: lightblue;
+    background-color: whitesmoke;
+    float: right;
+    margin-left: 10px;
+    text-decoration: maroon;
+    cursor: pointer;
+    margin-top: -22px;
+    margin-left: 50px;
+    padding: 4px;
+    margin-bottom: 5px;
+
+}
+.butt3style{
+    text-decoration-color: hotpink;
+    text-decoration-line: line-through;
+    text-decoration-style: solid;
+
+}
